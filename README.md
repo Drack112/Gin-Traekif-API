@@ -30,6 +30,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <a id="-projeto"></a>
 
+<p align="center">
+
+  <img alt="Terminal" src=".github/media/terminal.png">
+
+</p>
+
 ## 💻 Projeto
 
 Esse projeto de API é apenas um pequeno teste com o Gin Gionim, Gorm, token JWT no golang e Traefik
